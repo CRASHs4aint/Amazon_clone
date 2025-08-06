@@ -16,7 +16,7 @@
   width: 100px;
 }
 .logo {
-  background-image: url('/Amazon_clone/images/logo.jpg')
+  background-image: url('/Amazon_clone/assets/logo.jpg');
   background-size: cover;
   height: 50px;
   width: 100px;
@@ -114,7 +114,7 @@ span {
 }
 /* hero-section */
 .hero-section {
-  background-image: url("/Amazon_clone/images/hero.jpg");
+  background-image: url("/Amazon_clone/assets/hero.jpg");
   background-size: cover;
   height: 380px;
   display: flex;
@@ -240,7 +240,7 @@ span {
 .ad {
   background-color: #007fff;
   height: 400px;
-  background-image: url("/Amazon_clone/images/add.jpg");
+  background-image: url("/Amazon_clone/assets/add.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
