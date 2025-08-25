@@ -16,7 +16,7 @@
   width: 100px;
 }
 .logo {
-  background-image: url('GIT/Amazon_clone/images/logo.jpg');
+  background-image: url("/Amazon_clone/images/logo.jpg");
   background-size: cover;
   height: 50px;
   width: 100px;
