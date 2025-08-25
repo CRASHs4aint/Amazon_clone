@@ -114,7 +114,7 @@ span {
 }
 /* hero-section */
 .hero-section {
-  background-image: url("/Amazon_clone/hero.jpg");
+  background-image: url("/hero.jpg");
   background-size: cover;
   height: 380px;
   display: flex;
@@ -240,7 +240,7 @@ span {
 .ad {
   background-color: #007fff;
   height: 400px;
-  background-image: url("/Amazon_clone/images//add.jpg");
+  background-image: url("/images//add.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
