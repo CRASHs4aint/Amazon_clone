@@ -51,10 +51,14 @@ body{
     padding: 0 2vw;
 }
 .content-item{
-
     display: flex;
     align-items: center;
     padding: 0 2vw;
     justify-content: space-between;
 }
+/* .content-item:hover{
+    background-color: #232f3f;
+    opacity: 0.1;
+    z-index: -1;
+} */
 
